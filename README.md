@@ -1,1 +1,9 @@
 # Loruki
+Modern Website.
+
+Using:
+CSS GRID.
+FLEXBOX.
+VARIABLES.
+ANIMATIONS.
+RESPONSIVE.
